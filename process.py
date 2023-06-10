@@ -6,10 +6,10 @@ import csv
 
 
 
-hostname = 'p2testserver.mysql.database.azure.com'
-username = 'prashant@p2testserver.mysql.database.azure.com'
-password = 'w0lv3r1n3@'
-database = 'testdb'
+hostname = 'az-msql.mysql.database.azure.com'
+username = 'myadmin'
+password = 'Window@123'
+database = 'az-mysql'
 
 def main():
     connect_str = "DefaultEndpointsProtocol=https;AccountName=p2glpb;AccountKey=oA1HLU32e5DEXl7nFZ4mRPQ8JToCMLSNjzz22AGSUmmk567bBfbaLKSHbhPFbycyeI/OE0t4tCn++ASthiKx8w==;EndpointSuffix=core.windows.net"
