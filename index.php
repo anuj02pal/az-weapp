@@ -9,7 +9,7 @@
 		// Define database connection variables
 		$servername = "az-msql.mysql.database.azure.com";
 		$username = "myadmin";
-		$password = "Window@123WORD";
+		$password = "Window@123";
 		$dbname = "az-mysql";
 
 		// Create database connection
